@@ -11,6 +11,6 @@ for tc in range(t):
     n = str(input())
     w = []
     for l in range(n):
-        w.push(input().strip())
+        w.append(input().strip())
 
     printSolution(tc, solve(w))
