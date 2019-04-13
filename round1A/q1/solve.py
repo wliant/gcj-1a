@@ -1,3 +1,5 @@
+#!/bin/python3
+
 def solve(num):
     num1 = [0 for i in range(len(num))]
     num2 = [0 for i in range(len(num))]
