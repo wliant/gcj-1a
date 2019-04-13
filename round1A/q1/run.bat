@@ -1,2 +1,2 @@
-python solve.py < input2.txt
+python3 solve.py < input.txt
 pause
